@@ -4,5 +4,5 @@
 # VV-WIFI    # VV-WIFI           # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_VV-WIFI
+CFLAGS += -DBOARD_VV_WIFI
 BOARD_NUM_USB_PORTS=1
