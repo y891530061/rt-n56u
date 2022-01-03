@@ -559,5 +559,5 @@ make dep
 fi
 if [ "$2" != "kmod" ] ; then
 echo --------------------------MAKE-ALL--------------------------------
-make oldconfig
+make
 fi
